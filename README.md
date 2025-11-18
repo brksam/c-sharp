@@ -82,9 +82,10 @@ Minhas metas incluem:
 
 Para rodar qualquer exercício:
 
-```bash
+```
 cd nomeDaPasta
 dotnet run
+```
 
 📊 Minhas Estatísticas no GitHub
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=brksam&show_icons=true&theme=dark&bg_color=000000&title_color=2f81f7&icon_color=2f81f7"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brksam&layout=compact&theme=dark&bg_color=000000&title_color=2f81f7"/> </p>
