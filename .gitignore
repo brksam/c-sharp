@@ -1,0 +1,31 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# VS Code settings
+.vscode/
+
+# Visual Studio
+.vs/
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# DLLs, executáveis e temporários
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.db
