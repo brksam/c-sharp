@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("segundoContato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee4e2629abc087987ebd41b363e4380a21c2358f")]
 [assembly: System.Reflection.AssemblyProductAttribute("segundoContato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("segundoContato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
