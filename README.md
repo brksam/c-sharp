@@ -28,7 +28,7 @@
 # 📂 Estrutura do Repositório
 
 Este repositório contém meus exercícios organizados por módulos de estudo:
-
+```
 c-sharp/
 │
 ├── primeiroContato/ → Conceitos básicos, primeiros códigos e sintaxe inicial
@@ -38,7 +38,7 @@ c-sharp/
 ├── quintoContato/ → Classes, objetos, construtores e primeiros passos em OOP
 │
 └── AprendendoCSharp.sln → Solução principal do projeto no Visual Studio
-
+```
 ---
 
 # 🧠 Conteúdos Estudados
